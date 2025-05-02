@@ -10,9 +10,9 @@
 | `Alt + Backtick (\`)` | Opens a new Windows Terminal (`wt.exe`).                                               |
 | `Alt + Shift + W` | Toggles the Carnac application. If it's already running, it closes the application; otherwise, it starts it. |
 | `Alt + X`   | Pastes the rocket emoji (🚀) into the active window.                                        |
-| `::peml::`  | Expands to `izzupro3232@gmail.com` when typed.                                              |
-| `::ueml::`  | Expands to `raza.24bca7544@vitapstudent.ac.in` when typed.                                  |
-| `::ureg::`  | Expands to `24bca7544` when typed.                                                          |
+| `::peml::`  | Expands to `<personalEmail>` when typed.                                              |
+| `::ueml::`  | Expands to `<UneversityEmail>` when typed.                                  |
+| `::ureg::`  | Expands to `<RegistrationNumber>` when typed.                                                          |
 
 ## Notes
 
