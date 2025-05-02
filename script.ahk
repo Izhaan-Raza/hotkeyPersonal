@@ -33,7 +33,7 @@
     A_Clipboard := ClipSaved  
 }
 
-::peml::izzupro3232@gmail.com
-::ueml::raza.24bca7544@vitapstudent.ac.in
-::ureg::24bca7544
+::peml::email
+::ueml::uniemail
+::ureg::unireg
 
